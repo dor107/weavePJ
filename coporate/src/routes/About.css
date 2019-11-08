@@ -3,13 +3,8 @@ html,body{
     height: 100%;
 }
 
-.top{
-    width: 100%;
-    height: 7%;
-    background-color: #f00;
-}
-
 .schbox{
     width: 100px;
     height: 30px;
 }
+

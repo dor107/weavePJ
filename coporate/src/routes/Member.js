@@ -1,18 +1,18 @@
 import React from 'react';
 import { BrowserRouter as Router,Route,NavLink} from 'react-router-dom';
 
-import Header from "./Header";
-import Templete from "./Templete";
+import Header from "./Header";    
+import Menu from "../components/Menu";
 
-// import './About.css';
+import "./Member.css";
 
-const About = () => {
+const Member = () => {
     return (
         <div>
             <Header></Header>
-            <Templete></Templete>
+            <Menu></Menu>
         </div>
     );
 };
 
-export default About;
+export default Member;

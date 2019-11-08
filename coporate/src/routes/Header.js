@@ -8,7 +8,7 @@ const Header = () => {
         <div className="header">
           <NavLink to="/" className="logo_w" activeClassName="active"></NavLink>
           <div>
-            {/* <img src="Logo.jpg" alt="logo"></img>  */}
+            
           </div>
           <div className="profile">
             {/* 프로필이미지 */}
